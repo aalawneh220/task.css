@@ -1,0 +1,353 @@
+
+
+   
+  .topnav1 {
+    height: 70px; 
+    width: 100%;
+    background-color: #DFF6FF;
+    position: relative;
+  }
+  .topnav1 img{
+    left: 50px;
+    position: absolute;
+    top:50% ;
+    transform: translateY(-50%);
+    height: 70px;
+
+  }
+  .topnav1 ul{
+    left: 100px;
+    position: absolute;
+    top:50% ;
+    transform: translateY(-50%);
+    height: 70px;
+
+}
+.topnav1 .form {
+    right: 100px;
+    position: absolute;
+    top:50% ;
+    transform: translateY(-50%);
+    
+}
+  .topnav1 ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    background-color:#A6D1E6;
+    margin: 2px;
+    
+  }
+  .topnav1 ul li a{
+    text-decoration: none;
+    color: white;
+  }
+
+  
+.fieldset1 .form label{
+    text-align: left;
+    display: block;
+}
+
+.fieldset1{
+    text-align: center;
+}
+.fieldset1 .img1 img{
+    width: 300px;
+}
+.fieldset1 .img1{
+    display: inline-block;
+    vertical-align: middle;
+}
+.fieldset1 .form{
+    display: inline-block ;
+    width: 400px;
+    vertical-align: middle;
+    font-style: italic;
+    
+
+}
+
+.fieldset1 .form input{
+    display: block;
+}
+/* end form  */
+  .inputnav{
+    float: right;
+    font-size: medium;
+    border-bottom-style: inherit;
+  }
+  /* .topnav1{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: #eee; */
+  
+  table{
+    margin: auto;
+    justify-content: center;
+    border-collapse: collapse;
+  width: 80%;
+  font-style: italic;
+  font-size: medium;
+  
+}
+table thead{
+    background-color: #ddd;
+}
+.table1{
+    padding: 60px 0 ;
+    
+}
+
+th, td {
+  padding: 30px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  text-decoration: double;
+}
+/* .text1{
+display: flex;
+justify-content: center;
+text-align: center;
+font-size: larger;
+font-style: oblique;
+
+} */
+.information .allbox .box{
+    display: inline-block;
+    width: 250px;
+    padding: 50px 0;
+    
+}
+    
+.information .allbox{
+text-align: center;
+}
+.fieldset1
+{
+    background-color: #A6D1E6;
+}
+.landing{
+    position: relative;
+    height: 50vh;
+    width: 100%;
+    background-image: url(https://t3.ftcdn.net/jpg/03/21/97/42/360_F_321974259_BnmlxfkknMol8HiQ0dg1bwQizor48uB9.jpg);
+    background-size: cover;
+}
+  .landing .text {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50% , -30%);
+    font-size: larger;
+    font-style: oblique;
+  }
+  .landing .text button{
+    font-style: italic;
+    font-size: large;
+    background-color: skyblue;
+  }
+  
+  .topnav1{
+    height: 70px; 
+    width: 100%;
+    background-color: #ddd;
+    position: relative;
+}
+
+.topnav1 ul{
+    left: 100px;
+    position: absolute;
+    top:50% ;
+    transform: translateY(-50%);
+    height: 70px;
+
+}
+/* .logobar  */
+.logobar {
+    height: 70px; 
+    width: 100%;
+    background-color: #ddd;
+    position: relative;
+    
+}
+.logobar ul{
+    left: 100px;
+    position: absolute;
+    top:50% ;
+    transform: translateY(-50%);
+    height: 70px;
+}
+  .logobar img{
+    left: 50px;
+    position: absolute;
+    top:50% ;
+    transform: translateY(-50%);
+    height: 70px;
+  }
+.logobar ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    background-color: #A6D1E6;
+    margin: 2px;
+}
+.sellectbar form{
+    right: 100px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    
+}
+
+.logobar ul li a{
+    text-decoration: none;
+    color: white;
+}
+.sellectbar label{
+    color: white;
+     
+}
+.sellectbar{
+    text-align: right;
+
+}
+      .popular .allpic .pic{
+        display: inline-block;
+    width: 270px;
+    padding: 50px 30px;
+      }
+.popular .allpic{
+    text-align: center;
+    font-style: normal;
+}
+.popular{
+    background-color:#A6D1E6;
+}
+.popular .allpic .pic{
+    font-style: oblique;
+}
+.coverback {
+    position: relative;
+    height: 50vh;
+    width: 100%;
+    background-image: url(https://www.theyellowsparrow.com/wp-content/uploads/2016/10/bk-1050x656.jpg);
+    background-size: cover;
+}
+.coverback .text2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -30%);
+    font-size: larger;
+    font-style: oblique;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+
+.tittle .tittle1{
+    position: relative;
+    display: block;
+    padding-left: 300px;
+    margin: 30px ;
+    
+    
+}
+.tittle .tittle1 .text2{
+    position: absolute;
+    display: inline-block;
+    padding-left:  150px; 
+    padding-block: 100px;
+    margin: 30px;
+    font-style: italic;
+    
+    
+}
+.titt{
+    background-color: #A6D1E6;
+}
+.tit .tit2 img{
+    position: relative;
+    display: block;
+    padding-left: 750px;
+    margin: 30px ;
+    font-style: italic;
+}
+.tit{
+    position: relative;
+    display: inline-block;
+    padding-left: 900px;
+    margin: 1px;
+    color: rgb(16, 56, 82);
+    top: 0px;
+    margin-top: 50px;
+    margin-bottom: 100px
+    
+}
+.tit2{
+    position: absolute;
+   display: block;
+    top:10;
+    bottom: 40px;
+    left:350px;
+    margin-top: 50px;
+    font-style: italic;
+}
+
+.feedback .feedbackbox .box{
+    display: inline-block;
+    width: 250px;
+    padding: 50px 0;
+    
+}
+    
+.feedback .feedbackbox{
+text-align: center;
+font-style: italic;
+}
+.feedback{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.blog{
+    /* position: relative; */
+    width: 100%;
+    height: 300px;
+    display: inline-block;
+     text-align: center;
+     
+    
+}
+.blog1{
+    /* position: relative; */
+    display: inline-block;
+height: 300px;
+width: 49%;
+/* margin: 30px; */
+
+}
+.blog2{
+    display: inline-block;
+    height: 300px;
+    width: 49%;
+    /* margin: 30px; */
+}
+
+
+.newsletter{
+    text-align: center;
+    font-style: oblique;
+    padding: 100px;
+    
+}
+
+body{
+    background-color: #A6D1E6;
+}
+
